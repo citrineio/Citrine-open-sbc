@@ -13,3 +13,16 @@ The SBC shall have the following specs:
 - MicroSD card slot
 - Wifi/Bluetooth module
 
+Possible Contributions:
+
+- Obtimizing the PCB layout.
+- Obtimizing the schematics.
+- Designing schematics symbols and pcb footprints.
+- Designing an enclosure.
+- Developing the OS.
+- Suggesting components and suppliers
+- Writing and revieweing documentation. (Datasheet for the project, manual, guidelines, how tos...etc)
+- Uploading documentation such as datasheets and 
+- Reporting bugs.
+- Suggesting features.
+- Donations.
