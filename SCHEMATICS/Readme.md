@@ -1,5 +1,7 @@
 # Schematics
 
+In this directory, you can find the up to date schematics files. The pdf version will be updated twice a week on Saturdays and Tuesdays. The schematics were developed using kicad.
+
 | Page number  | Page Description  | File Name  |
 | ------------ | ------------ | ------------ |
 | 01  | Cover Page  | RK3328_SBC  |
@@ -13,4 +15,4 @@
 | 09  |   |   |
 | 10  |   |   |
 
-In this directory, you can find the up to date schematics files. The pdf version will be updated twice a week on Saturdays and Tuesdays. The schematics were developed using kicad.
+
