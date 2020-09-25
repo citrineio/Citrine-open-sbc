@@ -1,6 +1,21 @@
 # Open-sbc
 The purpose of this project is facilitate the design of an open source single board computer. Kicad will be used to ensure that this SBC is as open source and accessible as possible. This project is meant as a learning experience or a reference design for anyone venturing into this beautiful field. 
 
+## How do you benenfit from this project?
+
+### Individual:
+As an individual, there are many benefits you could benefit from this project:
+
+- You have a design that you can study and learn from to improve your electronics design skills.
+- Utilize the available design guides as a learning source.
+- Because this project is open source, you can copy the design, modify it and add your own touch as per the license. 
+### Company/Organization:
+Organizations can also reap great benefits from having available open source hardware designs:
+
+- Being an open source project, you can integrate this design into your products to shorten the time to market and ease the design process as per the license.
+- Utilize the design or the repository as part of a tutorial for your employees.
+
+## Specs:
 The SBC shall have the following specs: 
 
 - Rockchip RK3328 microprocessor
