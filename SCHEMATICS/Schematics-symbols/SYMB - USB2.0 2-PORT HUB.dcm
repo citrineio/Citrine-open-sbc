@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB_HUB
+D USB 2.0 Hub Controller 4-Port BC QFN36 Microchip USB2514B-AEZC, USB Controller, 480MBps, USB 2.0, 3.3 V, 36-Pin QFN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf
+$ENDCMP
+#
+#End Doc Library

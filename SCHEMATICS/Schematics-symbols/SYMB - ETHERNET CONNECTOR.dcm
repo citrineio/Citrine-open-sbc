@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RJ45_connector
+D LAN Transformer Jack, RJ45, 10/100 BaseT
+K lan jack transformer
+F https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf
+$ENDCMP
+#
+#End Doc Library

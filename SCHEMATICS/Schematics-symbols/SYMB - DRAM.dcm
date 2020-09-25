@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRAM
+D DRAM DDR4 8G 512MX16 FBGA
+F https://www.micron.com/~/media/documents/products/data-sheet/dram/ddr4/8gb_ddr4_sdram.pdf
+$ENDCMP
+#
+#End Doc Library

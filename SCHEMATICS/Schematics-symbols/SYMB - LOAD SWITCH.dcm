@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LOAD_SW
+D MOSFET P-channel -30 V, 12 mOhm typ., -9 A STripFET H6 Power MOSFET in a PowerFLAT 3.3 x 3.3 package
+F https://www.st.com/resource/en/datasheet/stl9p3llh6.pdf
+$ENDCMP
+#
+#End Doc Library
