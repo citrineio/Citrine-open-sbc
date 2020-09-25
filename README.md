@@ -1,5 +1,5 @@
 # Open-sbc
-The purpose of this project is facilitate the design of an open source single board computer. Kicad will be used to ensure that this SBC is as open source and accessible as possible. This project is meant as a learning experience or a reference design for anyone venturing into this beautiful field. 
+The purpose of this project is facilitate the design of an open source single board computer. Kicad will be used to ensure that this SBC is as open source and accessible as possible. This project is meant to be a learning experience or a reference design for anyone venturing into this beautiful field. 
 
 ## How do you benenfit from this project?
 
@@ -15,18 +15,25 @@ Organizations can also reap great benefits from having available open source har
 - Being an open source project, you can integrate this design into your products to shorten the time to market and ease the design process as per the license.
 - Utilize the design or the repository as part of a tutorial for your employees.
 
+### PCB Manufacturers:
+PCB fabrication/assembly houses can also benefit greatly from having an open source single board computer:
+
+- Utilize the design to demonstrate your manufacturing capabilities. If you can create a working version of this project then you have the capability to build complex boards. 
+- Calibrate you manufacturing capability. You can test new equipment in your factory by building this design using them.
+- 
+
 ## Specs:
 The SBC shall have the following specs: 
 
 - Rockchip RK3328 microprocessor
-- 2/4GB of DDR4 RAM
-- 16/32GB of eMMC
+- 2/4GB Micron DDR4 RAM
+- 16/32GB ISSI eMMC
 - MicroSD card slot
 - 4 USB A connectors: 2 USB 2.0 and 2 USB 3.0
 - Micro USB OTG connecter
-- One HDMI connector
-- 3.5mm jack for headphones
-- 10/100 Mbit ethernet connector
+- One HDMI connector type A or D (Undecided)
+- 3.5mm jack for headphones with potential mic support.
+- 10/100 Mbit ethernet connector (will be upgraded to Gbit ethernet in future iterations)
 - Wifi/Bluetooth module
 - 5V/3A USB-C Power connector
 - GPIO Pins: I2C, SPI, UART, I2C...etc
