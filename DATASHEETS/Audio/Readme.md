@@ -8,4 +8,8 @@ The processor has embedded CODEC left and right outbuts that can be connected di
 
 ## Utilize a CODEC Chip:
 
-This means connecting an I2S channel to a CODEC IC such as Cirrus Logic CS42L51. This chip supports headphones with mic. This solution increases the BOM cost and takes board space in return for a feature that may not be essential. 
+This means connecting an I2S channel to a CODEC IC such as Cirrus Logic [CS42L51](https://www.cirrus.com/products/cs42l51/ "CS42L51"). This chip supports headphones with mic. This solution increases the BOM cost and takes board space in return for a feature that may not be essential. 
+
+# Audio connector: 
+
+The chosen audio connector is CUI Devices [SJ-43514-SMT-TR](https://www.cuidevices.com/product/interconnect/connectors/audio-connectors/jacks/sj-4351x-smt-series "SJ-43514-SMT-TR")
