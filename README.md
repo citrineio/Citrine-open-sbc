@@ -1,4 +1,4 @@
-# Open-sbc
+# Atraj Single Board Computer
 The purpose of this project is facilitate the design of an open source single board computer. Kicad will be used to ensure that this SBC is as open source and accessible as possible. This project is meant to be a learning experience or a reference design for anyone venturing into this beautiful field. 
 
 ## How do you benenfit from this project?
